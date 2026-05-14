@@ -1,2 +1,2 @@
-# GraspIQ
+# graspiq
 
